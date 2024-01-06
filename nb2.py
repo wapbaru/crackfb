@@ -1,4 +1,8 @@
-
+# Sc Free Not Prem
+# Open Source 
+# Sc Recode By RFN
+# Jangan Lupa Follow Fb Saya Rifan - Code
+# Follow Github Me:github.com/Rfnn23
 # Update 20-July-2023
 #-----------------[ IMPORT-MODULE ]-------------------
 import requests,bs4,json,os,sys,random,datetime,time,re
